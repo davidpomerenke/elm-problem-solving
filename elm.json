@@ -3,7 +3,7 @@
     "name": "davidpomerenke/elm-problem-solving",
     "summary": "Fast graph search algorithms for problem-solving, with visualizations.",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "exposed-modules": [
         "Problem",
         "Problem.Example",
